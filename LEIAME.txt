@@ -1,0 +1,4 @@
+Para Executar o App, entre neste diretório e abra o .exe (flutter_application_1.exe).
+
+Diretório do Executável:
+\projeto_prototipagem\flutter_application_1\build\windows\runner\Debug\flutter_application_1.exe
